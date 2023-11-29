@@ -1,0 +1,17 @@
+C:\Users\Kwabe\Desktop\VB Projects\Highlander Hotel\Highlander Hotel\bin\Debug\net6.0-windows\Highlander Hotel.exe
+C:\Users\Kwabe\Desktop\VB Projects\Highlander Hotel\Highlander Hotel\bin\Debug\net6.0-windows\Highlander Hotel.deps.json
+C:\Users\Kwabe\Desktop\VB Projects\Highlander Hotel\Highlander Hotel\bin\Debug\net6.0-windows\Highlander Hotel.runtimeconfig.json
+C:\Users\Kwabe\Desktop\VB Projects\Highlander Hotel\Highlander Hotel\bin\Debug\net6.0-windows\Highlander Hotel.dll
+C:\Users\Kwabe\Desktop\VB Projects\Highlander Hotel\Highlander Hotel\bin\Debug\net6.0-windows\Highlander Hotel.pdb
+C:\Users\Kwabe\Desktop\VB Projects\Highlander Hotel\Highlander Hotel\obj\Debug\net6.0-windows\Highlander_Hotel.Form1.resources
+C:\Users\Kwabe\Desktop\VB Projects\Highlander Hotel\Highlander Hotel\obj\Debug\net6.0-windows\Highlander Hotel.vbproj.GenerateResource.cache
+C:\Users\Kwabe\Desktop\VB Projects\Highlander Hotel\Highlander Hotel\obj\Debug\net6.0-windows\Highlander Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kwabe\Desktop\VB Projects\Highlander Hotel\Highlander Hotel\obj\Debug\net6.0-windows\Highlander Hotel.AssemblyInfoInputs.cache
+C:\Users\Kwabe\Desktop\VB Projects\Highlander Hotel\Highlander Hotel\obj\Debug\net6.0-windows\Highlander Hotel.AssemblyInfo.vb
+C:\Users\Kwabe\Desktop\VB Projects\Highlander Hotel\Highlander Hotel\obj\Debug\net6.0-windows\Highlander Hotel.vbproj.CoreCompileInputs.cache
+C:\Users\Kwabe\Desktop\VB Projects\Highlander Hotel\Highlander Hotel\obj\Debug\net6.0-windows\Highlander Hotel.dll
+C:\Users\Kwabe\Desktop\VB Projects\Highlander Hotel\Highlander Hotel\obj\Debug\net6.0-windows\refint\Highlander Hotel.dll
+C:\Users\Kwabe\Desktop\VB Projects\Highlander Hotel\Highlander Hotel\obj\Debug\net6.0-windows\Highlander Hotel.pdb
+C:\Users\Kwabe\Desktop\VB Projects\Highlander Hotel\Highlander Hotel\obj\Debug\net6.0-windows\Highlander Hotel.genruntimeconfig.cache
+C:\Users\Kwabe\Desktop\VB Projects\Highlander Hotel\Highlander Hotel\obj\Debug\net6.0-windows\ref\Highlander Hotel.dll
+C:\Users\Kwabe\Desktop\VB Projects\Highlander Hotel\Highlander Hotel\obj\Debug\net6.0-windows\Highlander_Hotel.Resources.resources

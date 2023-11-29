@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "V9uqdAyxhtb0yViojBv80oa6/TsjahbPZtoMJI6pSHA3P64yccyjNe9SJ6lpR7vr7Ajfi64RwWpR7Rf5FFZqdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kwabe\\Desktop\\VB Projects\\Highlander Hotel\\Highlander Hotel\\Highlander Hotel.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kwabe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Kwabe\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Kwabe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Kwabe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
